@@ -1,0 +1,27 @@
+main: me.sowhatsminecraft.KitPvP.main.Main
+name: KitPvP_for_1.16.3
+version: 1.0
+author: SoWhatsMinecraft
+description: First prototype for KitPvP
+
+commands:
+  ninja:
+    aliases: [Ninja]
+    description: Gives the 'Ninja' Kit to the player
+  samurai:
+    aliases: [Samurai]
+    description: Gives the 'Samurai' Kit to the player
+  spearman:
+    aliases: [spear, Spearman]
+    description: Gives the 'Spearman' Kit to the player
+  warrior:
+    aliases: [Warrior]
+    description: Gives the 'Warrior' Kit to the player
+  chieftain:
+    aliases: [Chieftain]
+    description: Gives the 'Chieftain' Kit to the player
+  angel:
+    aliases: [Angel]
+    description: Gives the 'Angel' Kit to the player
+
+
